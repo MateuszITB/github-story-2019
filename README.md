@@ -6,6 +6,7 @@ Spring in Poland
 
 ## Chapter
 [Chapter One](chapter01.html)
+
 [Chapter Two](chapter02.html)
 
 ## GitHub Pages
