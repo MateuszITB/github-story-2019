@@ -8,4 +8,4 @@ Forza (In Italian means "power") is a series of semi-sim racing video games for 
 [Chapter One](chapter01.md)
 
 ## GitHub Pages
-[GitHub Pages link](https://mateuszitb.github.io/github-story-2019/)
+[GitHub Story link](https://mateuszitb.github.io/github-story-2019/)
