@@ -5,9 +5,9 @@
 Spring in Poland
 
 ## Chapter
-[Chapter One](chapter01.md)
+[Chapter One](chapter01.html)
 
-[Chapter Two](chapter02.md)
+[Chapter Two](chapter02.html)
 
 [Chapter Three](chapter03.html)
 
