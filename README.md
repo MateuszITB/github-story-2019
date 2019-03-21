@@ -9,6 +9,8 @@ Spring in Poland
 
 [Chapter Two](chapter02.html)
 
+[Chapter Three](chapter03.html)
+
 ## GitHub Pages
 [GitHub Story link](https://mateuszitb.github.io/github-story-2019/)
 
