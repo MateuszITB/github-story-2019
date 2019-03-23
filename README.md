@@ -11,6 +11,8 @@ Spring in Poland
 
 [Chapter Three](chapter03.html)
 
+[Chapter Three Alterative Ending](https://mateuszitb.github.io/github-story-2019/chapter03alterative.html)
+
 ## GitHub Pages
 [GitHub Story link](https://mateuszitb.github.io/github-story-2019/)
 
