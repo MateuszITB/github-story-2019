@@ -37,5 +37,6 @@
     <br>
     <li><a href="https://github.com/MateuszITB/github-story-2019/"><h2>GitHub Page</h2></a></li>
 </ul>
+[Chapter Two](chapter02.md)
 </body>
 </html>
