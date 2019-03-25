@@ -1,7 +1,7 @@
 
 <html>
 <head>
-	<title>This is Chapter Two</title>
+	<h2>This is Chapter Two</h2>
 </head>
 <body>
 <h1>Spring In Poland</h1>
@@ -32,6 +32,7 @@
 	plants and insects. All together create a unique color of the origins of life that grows around us in spring.
 </p>
 <ul>
+    <li><a href="https://mateuszitb.github.io/github-story-2019/"><h2>GitHub Story</h2></li>
 	<li><a href="https://mateuszitb.github.io/github-story-2019/chapter01.html"><h2>Chapter 1</h2></a></li>
 	<li><a href="https://mateuszitb.github.io/github-story-2019/chapter03.html"><h2>Chapter 3</h2></a></li>
 	<li><a href="https://mateuszitb.github.io/github-story-2019/chapter03alterative.html"><h2>Chapter 3(Alterative ending)</h2></a></li>
