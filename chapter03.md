@@ -33,7 +33,7 @@
     <li><a href="https://mateuszitb.github.io/github-story-2019/"><h2>GitHub Story</h2></a></li>
     <li><a href="https://mateuszitb.github.io/github-story-2019/chapter01.html"><h2>Chapter 1</h2></a></li>
     <li><a href="https://mateuszitb.github.io/github-story-2019/chapter02.html"><h2>Chapter 2</h2></a></li>
-    <li><a href="https://mateuszitb.github.io/github-story-2019/blob/alternative_ending/chapter03.md"><h2>Chapter 3(Alterative ending)</h2></a></li>
+    <li><a href="https://mateuszitb.github.io/github-story-2019/blob/alternative_ending/chapter03.html"><h2>Chapter 3(Alterative ending)</h2></a></li>
     <br>
     <li><a href="https://github.com/MateuszITB/github-story-2019/"><h2>GitHub Page</h2></a></li>
 </ul>
